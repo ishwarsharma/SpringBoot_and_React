@@ -1,0 +1,1 @@
+this project is used to GET and POST data from mongoDB uisng spring boot swagger API user interface (UI) in java.
